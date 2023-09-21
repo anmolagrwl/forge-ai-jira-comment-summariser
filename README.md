@@ -59,6 +59,9 @@ forge deploy
 ```
 forge install
 ```
+&nbsp; &nbsp; &nbsp; Select your Atlassian product using the arrow keys and press the enter key.
+
+&nbsp; &nbsp; &nbsp; Enter the URL for your development site. For example, example.atlassian.net.
 
 - Develop your app by running `forge tunnel` to proxy invocations locally:
 ```
