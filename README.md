@@ -27,7 +27,7 @@ Here are the steps to try out this app in your Jira Cloud instance:
 - Download this repo:
 
 ```
-git clone https://anmoldevx@bitbucket.org/atlassian/forge-ai-jira-comment-summariser.git
+git clone https://github.com/anmolagrwl/forge-ai-jira-comment-summariser.git
 ```
 
 - In your command terminal, enter the directory of the cloned repo:
@@ -45,7 +45,7 @@ npm install
 forge register
 ```
 
-- Set OpenAI API key as environment variable. An OpenAI API key which you can obtain from [OpenAI website](https://platform.openai.com/docs/api-reference/introduction):
+- Set OpenAI API key as environment variable. An OpenAI API key which you can obtain from [OpenAI website](https://platform.openai.com/docs/api-reference/introduction). You can find your Secret API key in your [User settings](https://platform.openai.com/account/api-keys). Please make sure you have enough [credit balance](https://platform.openai.com/account/billing/overview) to make these OpenAI API calls.:
 ```
 forge variables set --encrypt OPEN_API_KEY your-key
 ```
