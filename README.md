@@ -63,12 +63,7 @@ forge install
 
 &nbsp; &nbsp; &nbsp; Enter the URL for your development site. For example, example.atlassian.net.
 
-- Develop your app by running `forge tunnel` to proxy invocations locally:
-```
-forge tunnel
-```
-
-- Once tunnel is established, you can go ahead in your Jira instance mentioned before and try out the app in your sample issue as shown in demo.
+- Once the app is installed, you can go ahead in your Jira instance mentioned before and try out the app in your sample issue as shown in demo.
 
 ### Notes
 
