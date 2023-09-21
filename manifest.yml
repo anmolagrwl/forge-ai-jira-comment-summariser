@@ -1,0 +1,18 @@
+modules:
+  jira:issuePanel:
+    - key: summariser-hello-world-panel
+      function: main
+      title: summariser
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  function:
+    - key: main
+      handler: index.run
+permissions:
+  scopes:
+    - 'read:jira-work'
+  external:
+    fetch:
+      backend:
+        - 'api.openai.com'
+app:
+  id: ari:cloud:ecosystem::app/1f3e40b3-66de-4dc8-b36d-7a19a6fe4872
