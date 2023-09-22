@@ -1,6 +1,6 @@
-# Contributing to Forge AI Confluence Keyword Extractor
+# Contributing to Forge AI Jira Comment Summarizer
 
-Thank you for considering a contribution to Forge AI Confluence Keyword Extractor! Pull requests, issues and comments are welcome. For pull requests, please:
+Thank you for considering a contribution to Forge AI Jira Comment Summarizer! Pull requests, issues and comments are welcome. For pull requests, please:
 
 * Add tests for new features and bug fixes
 * Follow the existing style
