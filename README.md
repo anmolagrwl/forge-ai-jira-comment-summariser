@@ -67,7 +67,7 @@ forge install
 
 ### Notes
 
-- Tutorial COMING SOON
+- Tutorial - [Build a Jira comments summarizer app with OpenAI](https://developer.atlassian.com/platform/forge/build-jira-comments-summarizer-with-openai/)
 - The OpenAI API integration requires developers to use appropriate endpoints and methods, maintain security best practices, and consider potential biases and limitations. Ethical considerations are important to avoid unintended consequences.
 
 ## Support
